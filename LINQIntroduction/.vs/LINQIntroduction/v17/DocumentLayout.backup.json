@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TaiLieu\\HK5\\PRN212\\Session06-LINQ\\All-about-LINQ\\LINQIntroduction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9C099D-A7F8-483C-9DEF-71D331F46EC9}|Numbers\\Numbers.csproj|d:\\tailieu\\hk5\\prn212\\session06-linq\\all-about-linq\\linqintroduction\\numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9C099D-A7F8-483C-9DEF-71D331F46EC9}|Numbers\\Numbers.csproj|solutionrelative:numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TaiLieu\\HK5\\PRN212\\Session06-LINQ\\All-about-LINQ\\LINQIntroduction\\Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "Numbers\\Program.cs",
+              "ToolTip": "D:\\TaiLieu\\HK5\\PRN212\\Session06-LINQ\\All-about-LINQ\\LINQIntroduction\\Numbers\\Program.cs",
+              "RelativeToolTip": "Numbers\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA0wDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:44:20.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

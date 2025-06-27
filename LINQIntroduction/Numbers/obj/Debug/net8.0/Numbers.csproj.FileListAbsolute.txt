@@ -1,0 +1,15 @@
+D:\TaiLieu\HK5\PRN212\Session06-LINQ\All-about-LINQ\LINQIntroduction\Numbers\bin\Debug\net8.0\Numbers.exe
+D:\TaiLieu\HK5\PRN212\Session06-LINQ\All-about-LINQ\LINQIntroduction\Numbers\bin\Debug\net8.0\Numbers.deps.json
+D:\TaiLieu\HK5\PRN212\Session06-LINQ\All-about-LINQ\LINQIntroduction\Numbers\bin\Debug\net8.0\Numbers.runtimeconfig.json
+D:\TaiLieu\HK5\PRN212\Session06-LINQ\All-about-LINQ\LINQIntroduction\Numbers\bin\Debug\net8.0\Numbers.dll
+D:\TaiLieu\HK5\PRN212\Session06-LINQ\All-about-LINQ\LINQIntroduction\Numbers\bin\Debug\net8.0\Numbers.pdb
+D:\TaiLieu\HK5\PRN212\Session06-LINQ\All-about-LINQ\LINQIntroduction\Numbers\obj\Debug\net8.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaiLieu\HK5\PRN212\Session06-LINQ\All-about-LINQ\LINQIntroduction\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfoInputs.cache
+D:\TaiLieu\HK5\PRN212\Session06-LINQ\All-about-LINQ\LINQIntroduction\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfo.cs
+D:\TaiLieu\HK5\PRN212\Session06-LINQ\All-about-LINQ\LINQIntroduction\Numbers\obj\Debug\net8.0\Numbers.csproj.CoreCompileInputs.cache
+D:\TaiLieu\HK5\PRN212\Session06-LINQ\All-about-LINQ\LINQIntroduction\Numbers\obj\Debug\net8.0\Numbers.sourcelink.json
+D:\TaiLieu\HK5\PRN212\Session06-LINQ\All-about-LINQ\LINQIntroduction\Numbers\obj\Debug\net8.0\Numbers.dll
+D:\TaiLieu\HK5\PRN212\Session06-LINQ\All-about-LINQ\LINQIntroduction\Numbers\obj\Debug\net8.0\refint\Numbers.dll
+D:\TaiLieu\HK5\PRN212\Session06-LINQ\All-about-LINQ\LINQIntroduction\Numbers\obj\Debug\net8.0\Numbers.pdb
+D:\TaiLieu\HK5\PRN212\Session06-LINQ\All-about-LINQ\LINQIntroduction\Numbers\obj\Debug\net8.0\Numbers.genruntimeconfig.cache
+D:\TaiLieu\HK5\PRN212\Session06-LINQ\All-about-LINQ\LINQIntroduction\Numbers\obj\Debug\net8.0\ref\Numbers.dll
