@@ -23,3 +23,28 @@ LINQ to XML: Làm việc với tài liệu XML.
 
 LINQ to Entities: Dùng với Entity Framework để truy vấn dữ liệu từ database.
 
+5. Các toán tử LINQ thường dùng
+Filtering: Lọc dữ liệu theo điều kiện.
+
+Projection: Chọn và biến đổi dữ liệu.
+
+Sorting: Sắp xếp dữ liệu.
+
+Grouping: Nhóm dữ liệu theo khóa.
+
+Joining: Kết hợp dữ liệu từ nhiều nguồn.
+
+Aggregation: Tính toán tổng, trung bình, số lượng, giá trị lớn nhất/nhỏ nhất.
+
+6. Ưu điểm của LINQ
+Cú pháp rõ ràng, dễ đọc.
+
+Giảm code lặp, tăng khả năng bảo trì.
+
+Tích hợp chặt chẽ với C#.
+
+Làm việc được với nhiều loại dữ liệu khác nhau.
+
+7. Kết luận
+LINQ giúp lập trình viên xử lý dữ liệu nhanh chóng, ngắn gọn và nhất quán, bất kể nguồn dữ liệu là gì.
+Nắm vững LINQ là kỹ năng cần thiết để viết code C# hiệu quả và tối ưu.
