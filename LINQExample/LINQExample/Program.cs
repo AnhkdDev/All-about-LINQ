@@ -149,18 +149,18 @@ namespace LINQExample
 
             //In ra tên sản phẩm, thương hiệu, lấy các sản phẩm thỏa mãn: giá (300 - 400), giá giảm dần
             Console.WriteLine("Các sp giá (300 - 400), giá giảm dần");
-            var p6 = products.Where(p => p.Price >= 300 && p.Price <= 400).OrderByDescending(p => p.Price).Join(brands, p => p.ID, b => b.Name, (p, b) =>
+            products.Where(p => p.Price >= 300 && p.Price <= 400)
+                             .OrderByDescending(p => p.Price)
+                             .Join(brands, p => p.Brand, b => b.ID, (p, b) =>
             {
                 return new
                 {
-                    Thuonghieu = b.Name,
-                    Sanpham = p
+                    TenSP = p.Name,
+                    TenTH = b.Name,
+                    Gia = p.Price
                 };
-            }).ToList();
-            foreach (var item in p6)
-            {
-                Console.WriteLine(item);
-            }
+            }).ToList().ForEach(info => Console.WriteLine($"{info.TenSP, 15} {info.TenTH, 15} {info.Gia, 15}"));
+            
 
         }
     }
